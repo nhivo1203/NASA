@@ -7,7 +7,7 @@ const launch = {
 	mission: 'Test Launches Model',
 	rocket: 'Test Rocket',
 	launchDate: new Date('December 27, 2030'),
-	destination: 'Kepler-442 b',
+	target: 'Kepler-442 b',
 	customer: ['Nhi', 'Vo'],
 	upcoming: true,
 	success: true,
